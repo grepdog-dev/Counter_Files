@@ -1,2 +1,0 @@
-python qtapp.py
-pause
